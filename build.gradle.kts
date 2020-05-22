@@ -15,7 +15,7 @@ apply<VersionPlugin>()
 subprojects {
     group = "com.openosrs.externals"
 
-    project.extra["PluginProvider"] = "Ganom"
+    project.extra["PluginProvider"] = "TrueRev"
     project.extra["ProjectUrl"] = "https://discordapp.com/invite/gsoft"
     project.extra["PluginLicense"] = "GNU General Public License v3.0"
 

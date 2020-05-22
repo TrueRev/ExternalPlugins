@@ -26,7 +26,7 @@
 
 version = "5.12.0"
 
-project.extra["PluginName"] = "AutoClicker"
+project.extra["PluginName"] = "Testing"
 project.extra["PluginDescription"] = "Cinnamon Buns"
 
 dependencies {
