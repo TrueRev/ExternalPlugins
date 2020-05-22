@@ -27,7 +27,7 @@
 version = "5.12.0"
 
 project.extra["PluginName"] = "AutoClicker"
-project.extra["PluginDescription"] = "What more is there to say?"
+project.extra["PluginDescription"] = "Cinnamon Buns"
 
 dependencies {
     implementation(project(":ExtUtils"))
